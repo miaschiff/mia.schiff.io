@@ -1,0 +1,9 @@
+body{
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAjRy-vHU26-Ta0ommZVVG9cyVQmQucKDny-XjnSHSFvVroZcb");
+}
+
+h1, p, h2{
+  color: black;
+  font-size: 30px;
+
+}
